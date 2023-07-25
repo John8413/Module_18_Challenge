@@ -16,7 +16,6 @@ pandas is a software library written for the Python programming language for dat
 
 Import the correct packages to begin coding.
 
-# Imports
 import streamlit as st
 from dataclasses import dataclass
 from typing import Any, List
